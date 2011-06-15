@@ -1,3 +1,4 @@
+.DS*
 target/
 boot/
 lib_managed/
