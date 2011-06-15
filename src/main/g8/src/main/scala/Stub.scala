@@ -7,7 +7,7 @@ import com.jme3.scene.Geometry
 import com.jme3.scene.shape.Box
 import com.jme3.math.ColorRGBA
 
-object $class$ extends SimpleApplication with Application {
+object $class$ extends SimpleApplication with App {
   this.start()
 
   def simpleInitApp {
