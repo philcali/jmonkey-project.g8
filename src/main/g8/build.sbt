@@ -1,6 +1,6 @@
 import LWJGLKeys._
 
-seq(JMonkey.engineSettings: _*)
+seq(JMonkeyProject.engineSettings: _*)
 
 targetVersion in JMonkey := "$jmonkey_version$"
 
